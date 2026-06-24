@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MiniLedger" parent="Theme.MaterialComponents.Light" />
+</resources>
